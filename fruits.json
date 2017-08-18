@@ -1,0 +1,20 @@
+[
+	{
+		"name": "Pear",
+		"healthy": true,
+		"delicious": true,
+		"perishable": true
+	},
+	{
+		"name": "Fig",
+		"healthy": true,
+		"delicious": true,
+		"perishable": true	
+	},
+	{
+		"name": "Apple",
+		"healthy": true,
+		"delicious": false,
+		"perishable": true	
+	}
+]
